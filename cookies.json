@@ -1,0 +1,44 @@
+[
+  {
+    "name": "language",
+    "value": "ru-ru",
+    "domain": ".animalfood.com.ua",
+    "path": "/",
+    "expires": 1674836595.254627,
+    "size": 13,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "currency",
+    "value": "UAH",
+    "domain": ".animalfood.com.ua",
+    "path": "/",
+    "expires": 1674836595.254678,
+    "size": 11,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "OCSESSID",
+    "value": "9f866b5fd9ca966838f818f608",
+    "domain": "animalfood.com.ua",
+    "path": "/",
+    "expires": -1,
+    "size": 34,
+    "httpOnly": false,
+    "secure": false,
+    "session": true,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  }
+]
